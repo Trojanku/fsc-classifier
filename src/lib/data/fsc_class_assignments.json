@@ -1,0 +1,2966 @@
+{
+  "title": "Federal Supply Class (FSC) Assignments to DLA/GSA for Integrated Management",
+  "source": "AV_FSCClassAssignment._151007.pdf",
+  "note": "Each item in the Federal Supply System is assigned to a specific Source of Supply (SOS). FSCs marked with ** are supported by both GSA and DSCP G&I.",
+  "ric_reference": [
+    {
+      "code": "S9C/AX",
+      "description": "Defense Supply Center, Columbus (Construction, formerly Defense Construction Supply Center)"
+    },
+    {
+      "code": "S9E/TX",
+      "description": "Defense Supply Center, Columbus (Electronics, formerly Defense Electronics Supply Center)"
+    },
+    {
+      "code": "S9G/CX",
+      "description": "Defense Supply Center, Richmond (formerly Defense General Supply Center)"
+    },
+    {
+      "code": "HM8",
+      "description": "Defense Supply Center, Richmond (Mapping, Charting and Geodetic Products)"
+    },
+    {
+      "code": "S9T/CY",
+      "description": "Defense Supply Center, Philadelphia (Clothing and Textiles, formerly Defense Personnel Support Center)"
+    },
+    {
+      "code": "S9S/S9P",
+      "description": "Defense Supply Center, Philadelphia (Subsistence, formerly Defense Personnel Support Center)"
+    },
+    {
+      "code": "S9M/KX",
+      "description": "Defense Supply Center, Philadelphia (Medical, formerly Defense Personnel Support Center)"
+    },
+    {
+      "code": "S9I/KZ",
+      "description": "Defense Supply Center, Philadelphia (General and Industrial, formerly Defense Industrial Supply Center Philadelphia)"
+    },
+    {
+      "code": "S9F/KY",
+      "description": "Defense Energy Support Center (formerly Defense Fuel Supply Center)"
+    },
+    {
+      "code": "FAA/75",
+      "description": "GSA - Vehicle Acquisition and Leasing Service"
+    },
+    {
+      "code": "2FY/75",
+      "description": "GSA - Office and Supply and Paper Products"
+    },
+    {
+      "code": "3FN/75",
+      "description": "GSA - National Furniture Center"
+    },
+    {
+      "code": "6FE/75",
+      "description": "GSA - Tools and Appliances Acquisition Center"
+    },
+    {
+      "code": "7FX/75",
+      "description": "GSA - General Products Commodity Center"
+    }
+  ],
+  "fsc_assignments": [
+    {
+      "fsc": "1005",
+      "description": "Guns, thru 30 mm",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "1010",
+      "description": "Guns, over 30 mm to 75 mm",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "1015",
+      "description": "Guns, 75 mm - 125 mm",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "1020",
+      "description": "Guns, over 125 mm - 150 mm",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "1025",
+      "description": "Guns, over 150 mm - 200 mm",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "1030",
+      "description": "Guns, over 200 mm - 300 mm",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "1035",
+      "description": "Guns, over 300 mm",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "1040",
+      "description": "Chemical Weapons & Equipment",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "1045",
+      "description": "Launchers, Torpedoes & Depth Charge",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "1055",
+      "description": "Launchers, Grenade, Rocket and Pyrotechnic",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "1075",
+      "description": "Degaussing and Mine Sweep Equipment",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "1080",
+      "description": "Camouflage and Deception Equipment",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "1090",
+      "description": "Assemblies Interchangeable Between Weapons in 2 or More Classes",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "1095",
+      "description": "Miscellaneous Weapons",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "1210",
+      "description": "Fire Control Directors",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "1220",
+      "description": "Fire Control Computing Sights and Devices",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "1240",
+      "description": "Optical Sight and Range Equipment",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "1250",
+      "description": "Fire Control Stabilizing Mechanisms",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "1260",
+      "description": "Fire Control Designating and Indicating Equipment",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "1265",
+      "description": "Fire Control Transmitting and Receiving Equipment, Except Airborne",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "1270",
+      "description": "Aircraft Gunnery Fire Control Components",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "1280",
+      "description": "Aircraft Bombing Fire Control Components",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "1285",
+      "description": "Fire Control Radar Equipment, Except Airborne",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "1287",
+      "description": "Fire Control Sonar Equipment",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "1290",
+      "description": "Miscellaneous Fire Control Equipment",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "1420",
+      "description": "Guided Missile Components",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "1430",
+      "description": "Guided Missile Remote Control Systems",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "1440",
+      "description": "Launchers, Guided Missile",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "1450",
+      "description": "Guided Missile Handling and Servicing Equipment",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "1560",
+      "description": "Airframe Structural Components",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "1610",
+      "description": "Aircraft Propellers",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "1615",
+      "description": "Helicopter Rotor Blades, Drive Mechanisms and Components",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "1620",
+      "description": "Aircraft Landing Gear Components",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "1630",
+      "description": "Aircraft Wheel and Brake Systems",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "1650",
+      "description": "Aircraft Hydraulic, Vacuum and De-icing System Components",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "1660",
+      "description": "Aircraft Air Conditioning, Heat and Pressurizing Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "1670",
+      "description": "Parachutes; Aerial Pick Up, Delivery, Recovery Systems; and Cargo Tie Down Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "1680",
+      "description": "Miscellaneous Aircraft Accessories and Components",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "1710",
+      "description": "Aircraft Arrest, Barrier and Barricade Equipment",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "1720",
+      "description": "Aircraft Launching Equipment",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "1730",
+      "description": "Aircraft Ground Servicing Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "1740",
+      "description": "Airfield Specialized Trucks and Trails",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "1820",
+      "description": "Space Vehicle Components",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "1830",
+      "description": "Space Vehicle Remote Control Systems",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "1840",
+      "description": "Space Vehicle Launchers",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "1850",
+      "description": "Space Vehicle Handling and Servicing Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "1860",
+      "description": "Space Survival Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "2010",
+      "description": "Ship and Boat Propulsion Components",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "2020",
+      "description": "Rigging and Rigging Gear",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "2030",
+      "description": "Deck Machinery",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "2040",
+      "description": "Marine Hardware and Hull Items",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "2050",
+      "description": "Buoys",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "2060",
+      "description": "Commercial Fishing Equipment",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "2090",
+      "description": "Miscellaneous Ship Marine Equipment",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "2230",
+      "description": "Right-of-Way Construction and Maintenance Equipment, Railroad",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "2240",
+      "description": "Locomotive and Rail Car Access and Components",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "2250",
+      "description": "Track Materials, Railroad",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "2310",
+      "description": "Passenger Motor Vehicles",
+      "ric_acty_code": "FAA/75"
+    },
+    {
+      "fsc": "2320",
+      "description": "Trucks and Truck Tractors, Wheeled",
+      "ric_acty_code": "FAA/75"
+    },
+    {
+      "fsc": "2330",
+      "description": "Trailers",
+      "ric_acty_code": "FAA/75"
+    },
+    {
+      "fsc": "2340",
+      "description": "Motorcycles, Motor Scooters, and Bicycles",
+      "ric_acty_code": "FAA/75"
+    },
+    {
+      "fsc": "2410",
+      "description": "Tractors, Full Track, Low Speed",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "2420",
+      "description": "Tractors, Wheeled",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "2430",
+      "description": "Tractors, Track Laying High Speed",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "2510",
+      "description": "Vehicle Cab, Body and Frame Structural Components",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "2520",
+      "description": "Vehicle Power Transmission Components",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "2530",
+      "description": "Vehicle Brake, Steer Axle, Wheel and Track Components",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "2540",
+      "description": "Vehicle Furniture and Accessories",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "2541",
+      "description": "Weapon Systems Specific Vehicular Accessories",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "2590",
+      "description": "Miscellaneous Vehicle Components",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "2620",
+      "description": "Tires and Tubes, Pneumatic, Aircraft",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "2805",
+      "description": "Gas Reciprocating Engine and Components, Except Aircraft",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "2810",
+      "description": "Gas Reciprocating Engine and Components, Aircraft",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "2815",
+      "description": "Diesel Engine and Components",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "2820",
+      "description": "Steam Engine, Reciprocating, and Components",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "2825",
+      "description": "Steam Turbines and Components",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "2830",
+      "description": "Water Turbines and Wheels, and Components",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "2835",
+      "description": "Gas Turbines, Jet Engine and Components, Except Aircraft",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "2840",
+      "description": "Gas Turbines, Jet Engine and Components, Aircraft",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "2845",
+      "description": "Rocket Engine and Components",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "2850",
+      "description": "Gas Rotary Engine and Components",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "2895",
+      "description": "Miscellaneous Engine and Components",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "2910",
+      "description": "Engine Fuel Systems Components, Except Aircraft",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "2915",
+      "description": "Engine Fuel Systems Components, Aircraft",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "2920",
+      "description": "Engine Electrical Systems Components, Except Aircraft",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "2925",
+      "description": "Engine Electrical Systems Components, Aircraft",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "2930",
+      "description": "Engine Cooling Systems Components, Except Aircraft",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "2935",
+      "description": "Engine Cooling Systems Components, Aircraft",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "2940",
+      "description": "Engine Air and Oil Filters, Strainers and Cleaners, Except Aircraft",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "2945",
+      "description": "Engine Air and Oil Filters, Strainers and Cleaners, Aircraft",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "2950",
+      "description": "TurboSupercharger",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "2990",
+      "description": "Miscellaneous Engine Accessories, Except Aircraft",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "2995",
+      "description": "Miscellaneous Engine Accessories, Aircraft",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3010",
+      "description": "Torque Converters and Speed Changers",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "3020",
+      "description": "Gears, Pulleys, Sprockets, and Transmission Chain",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "3030",
+      "description": "Belting, Drive Belts, Fan Belts, and Accessories",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "3040",
+      "description": "Miscellaneous Power Trans Equipment",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "3110",
+      "description": "Bearings, Anti-friction, Unmounted",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3120",
+      "description": "Bearings, Plain, Unmounted",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3130",
+      "description": "Bearings, Mounted",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3210",
+      "description": "Sawmill and Planing Mill Machinery",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "3220",
+      "description": "Woodworking Machine",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "3230",
+      "description": "Tools and Attachments for Woodworking Machine",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "3405",
+      "description": "Saws and Filing Machine",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3408",
+      "description": "Machining Centers and Way-Type Machine",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3410",
+      "description": "Electric and Ultrasonic Erosion Machine",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3411",
+      "description": "Boring Machine",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3412",
+      "description": "Broaching Machine",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3413",
+      "description": "Drilling and Tapping Machine",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3414",
+      "description": "Gear Cutting and Finishing Machines",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3415",
+      "description": "Grinding Machine",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3416",
+      "description": "Lathes",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3417",
+      "description": "Milling Machine",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3418",
+      "description": "Planers and Shapers",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3419",
+      "description": "Machines, Tools Miscellaneous",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3422",
+      "description": "Rolling Mills and Drawing Machines",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3424",
+      "description": "Metal Heat Treat and Non-Thermal Treat Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3426",
+      "description": "Metal Finishing Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3431",
+      "description": "Elect Arc Welding Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3432",
+      "description": "Elect Resistance Welding Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3433",
+      "description": "Gas Welding, Heat Cutting, and Metalizing Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3436",
+      "description": "Welding Positioners and Manipulators",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "3438",
+      "description": "Miscellaneous Welding Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3439",
+      "description": "Miscellaneous Welding, Soldering and Brazing Supplies and Accessories",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3441",
+      "description": "Bending and Forming Machinery",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "3442",
+      "description": "Hydraulic and Pneumatic Presses, Power Driven",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3443",
+      "description": "Mechanisms Presses, Power Driven",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3444",
+      "description": "Manual Presses",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3445",
+      "description": "Punching and Shearing Machinery",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3446",
+      "description": "Forging Machines and Hammers",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3447",
+      "description": "Wire and Metal Ribbon Form Machinery",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3448",
+      "description": "Riveting Machinery",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3449",
+      "description": "Miscellaneous Secondary Metal Forming and Cutting Machinery",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3450",
+      "description": "Machinery Tools, Portable",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3455",
+      "description": "Cutting Tools for Machinery Tools",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3456",
+      "description": "Cutting and Forming Tools for Secondary Metalworking Machinery",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3460",
+      "description": "Machine Tool Accessories",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3461",
+      "description": "Accessories for Secondary Metalworking Machinery",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3465",
+      "description": "Production Jigs, Fixtures and Templates",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3470",
+      "description": "Machine Shop Sets, Kits and Outfits",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3510",
+      "description": "Laundry and Dry Cleaning Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "3520",
+      "description": "Shoe Repairing Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "3530",
+      "description": "Industrial Sew Mach and Mobile Textile Repair Shops",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "3540",
+      "description": "Wrapping and Packaging Machines**",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "3550",
+      "description": "Vending and Coin Operating Machines**",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "3590",
+      "description": "Miscellaneous Service and Trade Equipment",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "3605",
+      "description": "Food Products Machinery and Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3610",
+      "description": "Print, Duplicating, and Bookbinding Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3611",
+      "description": "Industrial Marking Machinery",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3615",
+      "description": "Pulp and Paper Industries Machinery",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3620",
+      "description": "Rubber and Plastics Working Machinery",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3625",
+      "description": "Textile Industries Machinery",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3630",
+      "description": "Clay and Concrete Industries Machinery",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3635",
+      "description": "Crystal and Glass Industries Machinery",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3640",
+      "description": "Tobacco Manufacturing Machinery",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3645",
+      "description": "Leather Tanning and Leather Working Machinery",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3650",
+      "description": "Chemical and Pharmaceutical Manufacturing Machinery",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3655",
+      "description": "Gas Generating and Dispensing Systems Fixed or Mobile",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3660",
+      "description": "Industrial Size Reduction Machinery",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3670",
+      "description": "Specialized Semiconductor, Microcircuit and Printed Circuit Board Manufacturing Machinery",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3680",
+      "description": "Foundry Mach, Related Equipment and Supplies",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3685",
+      "description": "Specialized Metal Container Manufacturing Machinery and Related Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3690",
+      "description": "Specialized Ammo and Ordnance Machinery and Related Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3693",
+      "description": "Industrial Assembly Machinery",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3694",
+      "description": "Clean Work Stations, Control Environment and Related Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3695",
+      "description": "Miscellaneous Specialized Industry Machinery",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3710",
+      "description": "Soil Preparation Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "3720",
+      "description": "Harvesting Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "3730",
+      "description": "Dairy, Poultry, Livestock Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "3740",
+      "description": "Pest, Disease, Frost Control Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "3750",
+      "description": "Gardening Implements and Tools",
+      "ric_acty_code": "6FE/75"
+    },
+    {
+      "fsc": "3770",
+      "description": "Saddlery, Harness, Whips, Related Animal Furnishings",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "3805",
+      "description": "Earth Moving and Excavating Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "3810",
+      "description": "Cranes and Crane Shovels",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "3815",
+      "description": "Crane and Crane Shovel Attachments",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "3820",
+      "description": "Mining, Rock Drilling, Earth Boring, Related Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "3825",
+      "description": "Road Clearing and Cleaning Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "3830",
+      "description": "Truck and Tractor Attachment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "3835",
+      "description": "Petroleum Production and Distribution Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "3895",
+      "description": "Miscellaneous Construction Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "3910",
+      "description": "Conveyors",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "3915",
+      "description": "Materials Feeders",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "3920",
+      "description": "Materials Handling Equipment, Nonself-Propelled",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "3930",
+      "description": "Warehouse Trucks and Tractors, Self-Propelled",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "3940",
+      "description": "Block, Tackle, Rigging, Sling",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "3950",
+      "description": "Winch, Hoist, Crane, Derrick",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "3960",
+      "description": "Elevators and Escalators",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "3990",
+      "description": "Miscellaneous Materials Handling Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "4010",
+      "description": "Chain and Wire Rope",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "4020",
+      "description": "Fiber Rope, Cordage, Twine",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "4030",
+      "description": "Fitting for Rope, Cable, Chain",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "4110",
+      "description": "Refrigeration Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "4120",
+      "description": "Air Conditioning Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "4130",
+      "description": "Refrigeration and Air Conditioning Components",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "4140",
+      "description": "Fans, Air Circulators and Blower Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "4150",
+      "description": "Vortex Tubes and Other Related Cooling Tubes",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "4210",
+      "description": "Fire Fighting Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "4220",
+      "description": "Marine Lifesaving and Diving Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "4230",
+      "description": "Decontaminating and Impregnating Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "4235",
+      "description": "Hazardous Material Spill Containment Cleanup Equipment and Material",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "4240",
+      "description": "Safety and Rescue Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "4250",
+      "description": "Recycling and Reclamation Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "4310",
+      "description": "Compressors and Vacuum Pumps",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "4320",
+      "description": "Power and Hand Pumps",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "4330",
+      "description": "Centrifugal, Separators, and Pressure and Vacuum Filters",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "4410",
+      "description": "Industrial Boilers",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "4420",
+      "description": "Heat Exchange and Steam Condensers",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "4430",
+      "description": "Industrial Furnaces, Kilns, Lehrs and Ovens",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "4440",
+      "description": "Dryer, Dehydrators, Anhydrators",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "4460",
+      "description": "Air Purification Equipment",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "4510",
+      "description": "Plumbing Fixtures and Accessories",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "4520",
+      "description": "Space Heat Equipment, Domestic Water Heater",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "4530",
+      "description": "Fuel Burning Equipment Units",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "4540",
+      "description": "Miscellaneous Plumbing, Heat and Sanitation Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "4610",
+      "description": "Water Purification Equipment",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "4620",
+      "description": "Water Distillation Equipment, Marine and Industrial",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "4630",
+      "description": "Sewage Treatment Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "4710",
+      "description": "Pipe and Tube",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "4720",
+      "description": "Hose and Tubing, Flexible",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "4730",
+      "description": "Fittings and Specialties; Hose, Pipe and Tube",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "4810",
+      "description": "Valves, Powered",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "4820",
+      "description": "Valves, Nonpowered",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "4910",
+      "description": "Motor Vehicle Maintenance and Rep Shop Specialized Equipment",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "4920",
+      "description": "Aircraft Maintenance and Rep Shop Specialized Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "4921",
+      "description": "Torpedoes Maintenance, Rep, and Checkout Specialized Equipment",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "4923",
+      "description": "Depth Charges and Underwater Mines Maintenance, Rep and Checkout",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "4925",
+      "description": "Ammo Maintenance, Rep and Checkout Specialized Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "4927",
+      "description": "Rocket Maintenance, Rep and Checkout Specialized Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "4930",
+      "description": "Lubrication and Fuel Dispensing Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "4931",
+      "description": "Fire Control Maintenance and Rep Shop Specialized Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "4933",
+      "description": "Weapons Maintenance and Rep Shop Specialized Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "4935",
+      "description": "Guided Missile Maintenance, Rep and Checkout Specialized Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "4940",
+      "description": "Miscellaneous Maintenance and Rep Shop Specialized Equipment",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "4960",
+      "description": "Space Vehicle Maintenance, Rep and Checkout Specialized Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "4970",
+      "description": "Multiple Guided Weapons, Specialized Maintenance and Repair Shop Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "5110",
+      "description": "Hand Tools, Edged, Nonpowered",
+      "ric_acty_code": "6FE/75"
+    },
+    {
+      "fsc": "5120",
+      "description": "Hand Tools, Non-edged, Non-powered",
+      "ric_acty_code": "6FE/75"
+    },
+    {
+      "fsc": "5130",
+      "description": "Hand Tools, Power Driven",
+      "ric_acty_code": "6FE/75"
+    },
+    {
+      "fsc": "5133",
+      "description": "Drill Bits, Counterbores and Countersinks; Hand and Mach",
+      "ric_acty_code": "6FE/75"
+    },
+    {
+      "fsc": "5136",
+      "description": "Taps, Dies, Collets, Hand and Machine",
+      "ric_acty_code": "6FE/75"
+    },
+    {
+      "fsc": "5140",
+      "description": "Tool and Hardware Boxes",
+      "ric_acty_code": "6FE/75"
+    },
+    {
+      "fsc": "5180",
+      "description": "Specialized Equipments, Kits, Outfits/Hand Tools",
+      "ric_acty_code": "6FE/75"
+    },
+    {
+      "fsc": "5210",
+      "description": "Measuring Tools, Craftsmen's**",
+      "ric_acty_code": "6FE/75"
+    },
+    {
+      "fsc": "5220",
+      "description": "Inspection Gage and Precision Layout Tools",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5280",
+      "description": "Sets, kits and Outfits of Measuring Tools",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5305",
+      "description": "Screws",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5306",
+      "description": "Bolts",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5307",
+      "description": "Studs",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5310",
+      "description": "Nuts and Washers",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5315",
+      "description": "Nails, Machine Keys and Pins",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5320",
+      "description": "Rivets",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5325",
+      "description": "Fastening Devices",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5330",
+      "description": "Packing and Gasket Materials",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5331",
+      "description": "O-Rings",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5335",
+      "description": "Metal Screening",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5340",
+      "description": "Hardware, Commercial",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5341",
+      "description": "Brackets",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5342",
+      "description": "Hardware, Weapon System",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "5345",
+      "description": "Disks and Stones, Abrasive**",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "5350",
+      "description": "Abrasive Materials**",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "5355",
+      "description": "Knobs and Pointers",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5360",
+      "description": "Coil, Flat and Wire Springs",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5365",
+      "description": "Bushings, Rings, Shims and Spacers",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "5410",
+      "description": "Prefabricated Portable Buildings",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5411",
+      "description": "Rigid Wall Shelters",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5419",
+      "description": "Collective Modular Support System",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "5420",
+      "description": "Bridges, Fixed and Floating",
+      "ric_acty_code": "S9C/AX"
+    },
+    {
+      "fsc": "5430",
+      "description": "Storage Tanks",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5440",
+      "description": "Scaffold Equipment and Concrete Forms",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5445",
+      "description": "Prefabricated Tower Structures",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5450",
+      "description": "Miscellaneous Prefab Structures",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5510",
+      "description": "Lumber and Related Basic Wood Materials",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5520",
+      "description": "Millwork",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5530",
+      "description": "Plywood and Veneer",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5610",
+      "description": "Mineral Construction Materials, Bulk**",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "5620",
+      "description": "Building Tile, Brick, and Block**",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "5630",
+      "description": "Pipe and Conduit, Nonmetallic**",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "5640",
+      "description": "Wallboard, Building Paper, Thermal Insulation Materials**",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "5650",
+      "description": "Roofing and Siding Materials**",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "5660",
+      "description": "Fencing, Fences, Gates and Components",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5670",
+      "description": "Building Components Prefabricated**",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "5675",
+      "description": "Non-Wood Construction, Lumber, and Related Material",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5680",
+      "description": "Miscellaneous Construction Materials**",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "5805",
+      "description": "Telephone and Telegraph Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5810",
+      "description": "Communications Security Equipment and Components",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5811",
+      "description": "Other Cryptologic Equipment and Components",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5815",
+      "description": "Teletype and Facsimile Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5820",
+      "description": "Radio and TV Communications Equipment, Except Airborne",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5821",
+      "description": "Radio and TV Communications Equipment, Airborne",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "5825",
+      "description": "Radio and Navigation Equipment, Except Airborne",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5826",
+      "description": "Radio Navigation Equipment, Airborne",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "5830",
+      "description": "Intercom and PA Systems, Except Airborne",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5831",
+      "description": "Telecommunications and PA Systems, Airborne",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "5835",
+      "description": "Sound Recording and Reproducing Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5836",
+      "description": "Video Recording and Reproducing Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "5840",
+      "description": "Radar Equipment, Except Airborne",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5841",
+      "description": "Radar Equipment, Airborne",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "5845",
+      "description": "Underwater Sound Equipment",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5850",
+      "description": "Visible and Invisible Light Communications Equipment",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5855",
+      "description": "Night Vision Equipment, Emitted and Reflected Radiation",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5860",
+      "description": "Simulated Coherent Radiation Devices, Components, and Accessories",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5865",
+      "description": "Elect Countermeasures, Counter Countermeasures and Quick Reaction Capability Equipment",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5895",
+      "description": "Miscellaneous Communication Equipment",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5905",
+      "description": "Resistors",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5910",
+      "description": "Capacitors",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5915",
+      "description": "Filters and Networks",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5920",
+      "description": "Fuses, Arrestors, Absorbers and Protectors",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5925",
+      "description": "Circuit Breakers",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5930",
+      "description": "Switches",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5935",
+      "description": "Connectors, Electrical",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5940",
+      "description": "Lugs, Terminals, Terminal Strips",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "5945",
+      "description": "Relays, Solenoids",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5950",
+      "description": "Coils, Transformers",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5955",
+      "description": "Oscillators, Piezoelectric Crystals",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5960",
+      "description": "Electron Tubes and Associated Hardware",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5961",
+      "description": "Semiconductor Devices and Associated Hardware",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5962",
+      "description": "Microcircuits, Electronic",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5963",
+      "description": "Electronic Modules",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5965",
+      "description": "Headsets, Handsets, Microphones, Speakers",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5970",
+      "description": "Electrical Insulators and lnsulating Materials",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "5975",
+      "description": "Electric Hardware, Supplies",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "5977",
+      "description": "Elect Contact Brushes, Electrodes",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "5980",
+      "description": "Optoelectronic Devices and Assoc Hardware",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5985",
+      "description": "Antennas, Waveguides, Related Equipment",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5990",
+      "description": "Synchros and Resolvers",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5995",
+      "description": "Cable, Cord, Wire Assemblies; Communications Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "5996",
+      "description": "Amplifiers",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5998",
+      "description": "Electrical, Electronic Assemblies; Boards, Cards, Assoc Hardware",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "5999",
+      "description": "Miscellaneous Electrical and Electronic Components",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6005",
+      "description": "Couplers, Splitters, Mixers",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6006",
+      "description": "Attenuators",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6007",
+      "description": "Fiber Optic Filters",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6008",
+      "description": "Optical Multiplexers/Demultiplexers",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6010",
+      "description": "Fiber Optic Conductors",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6015",
+      "description": "Fiber Optic Cables",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6020",
+      "description": "Fiber Optic Cable Assemblies, Harnesses",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6021",
+      "description": "Fiber Optic Switches",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6025",
+      "description": "Fiber Optic Transmitters",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6026",
+      "description": "Fiber Optic Receivers",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6029",
+      "description": "Optical Repeaters",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6030",
+      "description": "Fiber Optic Devices",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6032",
+      "description": "Fiber Optic Light Sources and Photo Detectors",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6033",
+      "description": "Fiber Optic Photo Detectors",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6034",
+      "description": "Fiber Optic Modulators/Demodulator",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6035",
+      "description": "Fiber Optic Light Transfer/Image Transfer Devices",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6040",
+      "description": "Fiber Optic Sensors",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6050",
+      "description": "Fiber Optic Passive Devices",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6060",
+      "description": "Fiber Optic Interconnectors",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6070",
+      "description": "Fiber Optic Accessories and Supplies",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6080",
+      "description": "Fiber Optic Kits and Sets",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6099",
+      "description": "Miscellaneous Fiber Optic Components",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6105",
+      "description": "Motors, Electrical",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6110",
+      "description": "Electrical Control Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6115",
+      "description": "Generators and Generator Sets, Electrical",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6116",
+      "description": "Fuel Cell Power Units, Components and Accessories",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6117",
+      "description": "Solar Electrical Power Systems",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6120",
+      "description": "Transformers, Distribution, and Power Stations",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6125",
+      "description": "Converters, Electrical, Rotating",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6130",
+      "description": "Converters, Electrical, Nonrotating",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6135",
+      "description": "Batteries, Nonrechargeable",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6140",
+      "description": "Batteries, Rechargeable",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6145",
+      "description": "Wire and Cable, Elect",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6150",
+      "description": "Miscellaneous Elect Power and Distribution Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6160",
+      "description": "Miscellaneous Battery Retaining Fixtures and Liners",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6210",
+      "description": "Indoor, Outdoor Elect Lighting Fixtures",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "6220",
+      "description": "Electric Vehicle Lights, Fixtures",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "6230",
+      "description": "Electric Portable and Hand Lighting Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "6240",
+      "description": "Electric Lamps",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "6250",
+      "description": "Ballasts, Lampholders, Starters",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "6260",
+      "description": "Nonelectrical Lighting Fixtures",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "6310",
+      "description": "Traffic and Transit Signal Systems",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "6320",
+      "description": "Shipboard Alarm and Signal Systems",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6330",
+      "description": "Railroad Signal and Warning Devices",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "6340",
+      "description": "Aircraft Alarm and Signal Systems",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6350",
+      "description": "Miscellaneous Alarm Signal and Security Detection Systems",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "6505",
+      "description": "Drugs and Biologicals",
+      "ric_acty_code": "S9M/KX"
+    },
+    {
+      "fsc": "6508",
+      "description": "Medicated Cosmetics and Toiletries",
+      "ric_acty_code": "S9M/KX"
+    },
+    {
+      "fsc": "6510",
+      "description": "Surgical Dressing Materials",
+      "ric_acty_code": "S9M/KX"
+    },
+    {
+      "fsc": "6515",
+      "description": "Med, Surgical Instruments, Equipment and Supplies",
+      "ric_acty_code": "S9M/KX"
+    },
+    {
+      "fsc": "6520",
+      "description": "Dental Instruments, Equipment and Supplies",
+      "ric_acty_code": "S9M/KX"
+    },
+    {
+      "fsc": "6525",
+      "description": "X-Ray Equipment and Supplies: Medical, Dental, Veterinary",
+      "ric_acty_code": "S9M/KX"
+    },
+    {
+      "fsc": "6530",
+      "description": "Hospital Furniture, Equipment, Utensils, Supplies",
+      "ric_acty_code": "S9M/KX"
+    },
+    {
+      "fsc": "6532",
+      "description": "Hospital, Surgical Clothing, Related Spec Purpose Items",
+      "ric_acty_code": "S9M/KX"
+    },
+    {
+      "fsc": "6540",
+      "description": "Ophthalmic Instruments, Equipment and Supplies",
+      "ric_acty_code": "S9M/KX"
+    },
+    {
+      "fsc": "6545",
+      "description": "Replenishable Field Med Sets, Kits and Outfits",
+      "ric_acty_code": "S9M/KX"
+    },
+    {
+      "fsc": "6550",
+      "description": "In-Vitro Diagnostic Substances, Reagents, Test Kits and Sets",
+      "ric_acty_code": "S9M/KX"
+    },
+    {
+      "fsc": "6605",
+      "description": "Navigational Instruments",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6610",
+      "description": "Flight Instruments",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6615",
+      "description": "Auto Pilot Mechanisms and Airborne Gyro Components",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6620",
+      "description": "Engine Instruments",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6625",
+      "description": "Electrical and Electronic Properties Measuring, Test Instruments",
+      "ric_acty_code": "S9E/TX"
+    },
+    {
+      "fsc": "6630",
+      "description": "Chemical Analysis Instruments",
+      "ric_acty_code": "S9M/KX"
+    },
+    {
+      "fsc": "6635",
+      "description": "Physical Properties Testing and Inspection Equipment",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6636",
+      "description": "Environmental Chambers and Related Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "6640",
+      "description": "Lab Equipment and Supplies",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6645",
+      "description": "Time Measuring Instruments",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6650",
+      "description": "Optical Instruments, Test Equipment, Components and Accessories",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6655",
+      "description": "Geophysical Instruments",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6660",
+      "description": "Meteorological Instruments and Apparatus",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6665",
+      "description": "Hazard-Detecting Instruments and Apparatus",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6670",
+      "description": "Scales and Balances",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6675",
+      "description": "Drafting, Surveying, and Mapping Instruments",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "6680",
+      "description": "Liquid, Gas Flow, Liquid Level and Mechanisms Motion Measuring Instruments",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6685",
+      "description": "Pressure, Temp, and Humidity Measurement and Control Instruments",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6695",
+      "description": "Combination and Miscellaneous Instruments",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6710",
+      "description": "Cameras, Motion Picture",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "6720",
+      "description": "Cameras, Still Picture",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "6730",
+      "description": "Photo Projection Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "6740",
+      "description": "Photo Developing and Finishing Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "6750",
+      "description": "Photo Supplies",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "6760",
+      "description": "Photo Equipment and Accessories",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "6770",
+      "description": "Film, Processed",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "6780",
+      "description": "Photo Sets, Kits, and Outfits",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "6810",
+      "description": "Chemicals",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6820",
+      "description": "Dyes",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6830",
+      "description": "Gases: Compressed and Liquefied",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6840",
+      "description": "Pest Control Agents and Disinfectants",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6850",
+      "description": "Miscellaneous Chemical Specialties",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "6910",
+      "description": "Training Aids",
+      "ric_acty_code": "S9M/KX"
+    },
+    {
+      "fsc": "6920",
+      "description": "Armament Training Devices",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "6930",
+      "description": "Operation Training Devices",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "6940",
+      "description": "Communications Training Devices",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "7010",
+      "description": "ADPE Systems Configuration",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "7020",
+      "description": "ADP Cent Processing Unit (CPU, Computer), Analog",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "7021",
+      "description": "ADP Cent Processing Unit (CPU, Computer), Digital",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "7022",
+      "description": "ADP Cent Processing Unit (CPU, Computer), Hybrid",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "7025",
+      "description": "ADP Input/Output and Storage Devices",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "7030",
+      "description": "ADP Software",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "7035",
+      "description": "ADP Supplies and Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "7040",
+      "description": "Punched Card Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "7042",
+      "description": "Mini and Micro Computer Control Devices",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "7045",
+      "description": "ADP Supplies",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "7050",
+      "description": "ADP Components",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "7105",
+      "description": "Household Furniture**",
+      "ric_acty_code": "3FN/75"
+    },
+    {
+      "fsc": "7110",
+      "description": "Office Furniture**",
+      "ric_acty_code": "3FN/75"
+    },
+    {
+      "fsc": "7125",
+      "description": "Cabinets, Lockers, Bins, Shelving**",
+      "ric_acty_code": "3FN/75"
+    },
+    {
+      "fsc": "7195",
+      "description": "Miscellaneous Furniture and Fixtures**",
+      "ric_acty_code": "3FN/75"
+    },
+    {
+      "fsc": "7210",
+      "description": "Household Furnishings",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "7220",
+      "description": "Floor Coverings**",
+      "ric_acty_code": "3FN/75"
+    },
+    {
+      "fsc": "7230",
+      "description": "Draperies, Awnings and Shades",
+      "ric_acty_code": "3FN/75"
+    },
+    {
+      "fsc": "7240",
+      "description": "Household and Commercial Utility Containers",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "7290",
+      "description": "Miscellaneous Household Commercial Furnishings and Appliances",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "7310",
+      "description": "Food Cooking, Baking and Servicing Equipment",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "7320",
+      "description": "Kitchen Equipment and Appliances",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "7330",
+      "description": "Kitchen Hand Tools and Utensils",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "7340",
+      "description": "Cutlery and Flatware",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "7350",
+      "description": "Tableware",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "7360",
+      "description": "Sets, Kits, Outfits and Modules, Food Preparation and Serving",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "7420",
+      "description": "Accounting and Calculating Mach **",
+      "ric_acty_code": "2FY/75"
+    },
+    {
+      "fsc": "7430",
+      "description": "Typewriters and Office Type Composing Mach**",
+      "ric_acty_code": "2FY/75"
+    },
+    {
+      "fsc": "7435",
+      "description": "Office Info Systems Equipment**",
+      "ric_acty_code": "2FY/75"
+    },
+    {
+      "fsc": "7450",
+      "description": "Office Type Sound Recording and Reproducing Mach",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "7460",
+      "description": "Visible Record Equipment* *",
+      "ric_acty_code": "2FY/75"
+    },
+    {
+      "fsc": "7490",
+      "description": "Miscellaneous Office Machines**",
+      "ric_acty_code": "2FY/75"
+    },
+    {
+      "fsc": "7510",
+      "description": "Office Supplies**",
+      "ric_acty_code": "2FY/75"
+    },
+    {
+      "fsc": "7520",
+      "description": "Office Devices and Accessories**",
+      "ric_acty_code": "2FY/75"
+    },
+    {
+      "fsc": "7530",
+      "description": "Stationery and Record Forms**",
+      "ric_acty_code": "2FY/75"
+    },
+    {
+      "fsc": "7540",
+      "description": "Standard Forms**",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "7610",
+      "description": "Books and Pamphlets",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "7630",
+      "description": "Newspapers and Periodicals",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "7640",
+      "description": "Maps, Atlases, Charts and Globes",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "7641",
+      "description": "Aeronautical Mapping, Charting, and Geodetic Products (located at Richmond, DSCR-JN)",
+      "ric_acty_code": "HM8"
+    },
+    {
+      "fsc": "7642",
+      "description": "Hydrographic Mapping, Charting, and Geodetic Products (located at Richmond, DSCR-JN)",
+      "ric_acty_code": "HM8"
+    },
+    {
+      "fsc": "7643",
+      "description": "Topographic Mapping, Charting, and Geodetic Products (located at Richmond, DSCR-JN)",
+      "ric_acty_code": "HM8"
+    },
+    {
+      "fsc": "7644",
+      "description": "Digital Mapping, Charting, and Geodetic Products (located at Richmond, DSCR-JN)",
+      "ric_acty_code": "HM8"
+    },
+    {
+      "fsc": "7650",
+      "description": "Drawings and Specifications",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "7660",
+      "description": "Sheet and Book Music",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "7670",
+      "description": "Microfilm, Processed",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "7690",
+      "description": "Miscellaneous Printed Matter",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "7710",
+      "description": "Musical Instruments**",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "7720",
+      "description": "Musical Instruments Parts and Accessories",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "7730",
+      "description": "Phonograph, Radio and TVs, Home-type**",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "7740",
+      "description": "Phonograph Records**",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "7810",
+      "description": "Athletic and Sporting Equipment",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "7820",
+      "description": "Games, Toys, Wheeled, Goods",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "7830",
+      "description": "Recreation and Gym Equipment",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "7910",
+      "description": "Floor Polishers and Vacuum Cleaning Equipment",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "7920",
+      "description": "Brooms, Brushes, Mops, Sponges",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "7930",
+      "description": "Cleaning and Polishing Compounds and Prep",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "8010",
+      "description": "Paints, Dopes, Varnishes and Related**",
+      "ric_acty_code": "6FE/75"
+    },
+    {
+      "fsc": "8020",
+      "description": "Paint and Artists' Brushes**",
+      "ric_acty_code": "6FE/75"
+    },
+    {
+      "fsc": "8030",
+      "description": "Preservative and Sealing Compounds**",
+      "ric_acty_code": "6FE/75"
+    },
+    {
+      "fsc": "8040",
+      "description": "Adhesives**",
+      "ric_acty_code": "6FE/75"
+    },
+    {
+      "fsc": "8105",
+      "description": "Bags and Sacks**",
+      "ric_acty_code": "2FY/75"
+    },
+    {
+      "fsc": "8110",
+      "description": "Drums and Cans",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "8115",
+      "description": "Boxes, Cartons, Crates**",
+      "ric_acty_code": "2FY/75"
+    },
+    {
+      "fsc": "8120",
+      "description": "Commercial and Industrial Gas Cylinders",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "8125",
+      "description": "Bottles and Jars",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "8130",
+      "description": "Reels and Spools",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "8135",
+      "description": "Packaging and Packing Bulk Materials**",
+      "ric_acty_code": "2FY/75"
+    },
+    {
+      "fsc": "8140",
+      "description": "Ammo and Nuclear Ordnance Boxes, Packages and Specialized Containers",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "8145",
+      "description": "Special Ship and Storage Containers",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "8305",
+      "description": "Textile Fabrics",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "8310",
+      "description": "Yarn and Thread",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "8315",
+      "description": "Notions and Apparel Findings",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "8320",
+      "description": "Padding and Stuffing Materials",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "8325",
+      "description": "Fur Materials",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "8330",
+      "description": "Leather",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "8335",
+      "description": "Shoe Findings and Soling Materials",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "8340",
+      "description": "Tents and Tarpaulins",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "8345",
+      "description": "Flags and Pennants",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "8405",
+      "description": "Outerwear, Men",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "8410",
+      "description": "Outerwear, Women",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "8415",
+      "description": "Clothing, Special Purpose",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "8420",
+      "description": "Underwear and Nightwear, Men",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "8425",
+      "description": "Underwear and Nightwear, Women",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "8430",
+      "description": "Footwear, Men",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "8435",
+      "description": "Footwear, Women",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "8440",
+      "description": "Hosiery, Handwear and Clothing",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "8445",
+      "description": "Hosiery, Handwear and Clothing Accessories, Women",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "8450",
+      "description": "Child and Infant Apparel and Accessories",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "8455",
+      "description": "Badges and Insignia",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "8460",
+      "description": "Luggage",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "8465",
+      "description": "Individual Equipment",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "8470",
+      "description": "Armor, Personal",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "8475",
+      "description": "Spec Flight Clothing and Accessories",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "8510",
+      "description": "Perfumes, Toilet Preparations and Powders",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "8520",
+      "description": "Toilet Soap, Shave Prep and Dentifrices",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "8530",
+      "description": "Personal Toiletry Articles",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "8540",
+      "description": "Toiletry Paper Products",
+      "ric_acty_code": "2FY/75"
+    },
+    {
+      "fsc": "8710",
+      "description": "Forage and Feed",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "8720",
+      "description": "Fertilizers**",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "8730",
+      "description": "Seeds and Nursery Stock**",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "8810",
+      "description": "Live Animals, Raised for Food*",
+      "ric_acty_code": "S9S/S9P"
+    },
+    {
+      "fsc": "8820",
+      "description": "Live Animals, Not for Food*",
+      "ric_acty_code": "S9M/KX"
+    },
+    {
+      "fsc": "8905",
+      "description": "Meat, Poultry and Fish*",
+      "ric_acty_code": "S9S/S9P"
+    },
+    {
+      "fsc": "8910",
+      "description": "Dairy Foods and Eggs*",
+      "ric_acty_code": "S9S/S9P"
+    },
+    {
+      "fsc": "8915",
+      "description": "Fruits and Vegetables*",
+      "ric_acty_code": "S9S/S9P"
+    },
+    {
+      "fsc": "8920",
+      "description": "Bakery and Cereal Products*",
+      "ric_acty_code": "S9S/S9P"
+    },
+    {
+      "fsc": "8925",
+      "description": "Sugar, Confectionery and Nuts*",
+      "ric_acty_code": "S9S/S9P"
+    },
+    {
+      "fsc": "8930",
+      "description": "Jams, Jellies and Preserves*",
+      "ric_acty_code": "S9S/S9P"
+    },
+    {
+      "fsc": "8935",
+      "description": "Soups and Bouillons*",
+      "ric_acty_code": "S9S/S9P"
+    },
+    {
+      "fsc": "8940",
+      "description": "Special Dietary Foods and Food Specialty Preparations*",
+      "ric_acty_code": "S9S/S9P"
+    },
+    {
+      "fsc": "8945",
+      "description": "Food, Oils and Fats*",
+      "ric_acty_code": "S9S/S9P"
+    },
+    {
+      "fsc": "8950",
+      "description": "Condiments and Related Products*",
+      "ric_acty_code": "S9S/S9P"
+    },
+    {
+      "fsc": "8955",
+      "description": "Coffee, Tea and Cocoa*",
+      "ric_acty_code": "S9S/S9P"
+    },
+    {
+      "fsc": "8960",
+      "description": "Beverages, Nonalcoholic*",
+      "ric_acty_code": "S9S/S9P"
+    },
+    {
+      "fsc": "8965",
+      "description": "Beverages, Alcoholic*",
+      "ric_acty_code": "S9S/S9P"
+    },
+    {
+      "fsc": "8970",
+      "description": "Composite Food Packages*",
+      "ric_acty_code": "S9S/S9P"
+    },
+    {
+      "fsc": "8975",
+      "description": "Tobacco Products",
+      "ric_acty_code": "S9S/S9P"
+    },
+    {
+      "fsc": "9110",
+      "description": "Fuels, Solid",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9130",
+      "description": "Liquid Propulsion and Fuels, Petroleum Base",
+      "ric_acty_code": "S9F/KY"
+    },
+    {
+      "fsc": "9140",
+      "description": "Fuel Oils",
+      "ric_acty_code": "S9F/KY"
+    },
+    {
+      "fsc": "9150",
+      "description": "Oils and Greases: Cutting, Lubricating, and Hydraulic",
+      "ric_acty_code": "S9G/CX"
+    },
+    {
+      "fsc": "9160",
+      "description": "Miscellaneous Waxes, Oils and Fats",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9310",
+      "description": "Paper and Paperboard",
+      "ric_acty_code": "2FY/75"
+    },
+    {
+      "fsc": "9320",
+      "description": "Rubber Fabricated Materials",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9330",
+      "description": "Plastics Fabricated Materials",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9340",
+      "description": "Glass Fabricated Materials",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9350",
+      "description": "Refractories and Fire Surfacing Materials",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9390",
+      "description": "Miscellaneous Fabricated Nonmetal Materials",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9410",
+      "description": "Crude Grades of Plant Materials",
+      "ric_acty_code": "S9M/KX"
+    },
+    {
+      "fsc": "9420",
+      "description": "Fibers: Vegetable, Animal and Synthetic",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "9430",
+      "description": "Miscellaneous Crude Animal Products, Inedible",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "9440",
+      "description": "Miscellaneous Crude Agricultural and Forest Products",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9450",
+      "description": "Nonmetallic Scrap, Except Textile",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9505",
+      "description": "Wire, Nonelectrical",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9510",
+      "description": "Bars and Rods",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9515",
+      "description": "Plate, Sheet, Strip, Foil and Leaf",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9520",
+      "description": "Structural Shapes",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9525",
+      "description": "Wire, Nonelectrical, Nonferrous Base Metal",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9530",
+      "description": "Bars and Rods, Nonferrous Base Metal",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9535",
+      "description": "Plate, Sheet, Strip and Foil: Nonferrous Base Metal",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9540",
+      "description": "Structural Shapes, Nonferrous Base Metal",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9545",
+      "description": "Plate, Sheet, Strip, Foil, and Wire: Precious Metal",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9610",
+      "description": "Ores",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9620",
+      "description": "Minerals, Natural and Synthetic",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9630",
+      "description": "Additive Metal Materials",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9640",
+      "description": "Iron and Steel Primary and Semi-finished Products",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9650",
+      "description": "Nonferrous Base Metal Refinery and Intermediate Forms",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9660",
+      "description": "Precious Metals Primary Forms",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9670",
+      "description": "Iron and Steel Scrap",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9680",
+      "description": "Nonferrous Metal Scrap",
+      "ric_acty_code": "S9I/KZ"
+    },
+    {
+      "fsc": "9905",
+      "description": "Signs, Advertising Displays, Displays, and ID Plates**",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "9910",
+      "description": "Jewelry",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "9915",
+      "description": "Collectors and/or Historical Items",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "9920",
+      "description": "Smokers' Articles and Matches",
+      "ric_acty_code": "7FX/75"
+    },
+    {
+      "fsc": "9925",
+      "description": "Ecclesiastical Equipment, Furnishings and Supplies",
+      "ric_acty_code": "S9T/CY"
+    },
+    {
+      "fsc": "9930",
+      "description": "Memorials, Cemeterial and Mortuary Equipment Supplies",
+      "ric_acty_code": "S9M/KX"
+    },
+    {
+      "fsc": "9999",
+      "description": "Miscellaneous Items",
+      "ric_acty_code": "S9I/KZ"
+    }
+  ],
+  "total_entries": 580
+}
