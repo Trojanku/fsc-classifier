@@ -144,7 +144,7 @@ async function getDescriptionEmbeddings(): Promise<number[][]> {
     if (descriptionEmbeddings) return descriptionEmbeddings;
 
     console.log(`[classifyDistance] Computing embeddings for ${Object.values(codesMap).length} FSC descriptions...`);
-    descriptionEmbeddings = await embed(Object.keys(codesMap));
+    descriptionEmbeddings = await embed(Object.values(codesMap));
     console.log(`[classifyDistance] Embeddings cached (${descriptionEmbeddings.length} vectors)`);
 
     return descriptionEmbeddings;

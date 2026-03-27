@@ -23,23 +23,53 @@ export const POST: RequestHandler = async ({ request }) => {
 
 		// 1. Read form
 
+		// TODO: Potentialy name also contains some intel about the classificaiton
 		const companyName = formData.get('companyName') as string | null;
+
+		// Website url - simple scrape for copntent
 		let websiteUrl = formData.get('websiteUrl') as string | null;
+
+		// If URL absent - extract url from domain
 		const emailDomain = formData.get('emailDomain') as string | null;
+
+		// Just read text - simple processing
 		const documents = formData.getAll('documents') as File[];
 
+		// Require company name - why not
 		if (!companyName?.trim()) {
 			throw apiError(400, 'Missing required field: companyName');
 		}
 
+
 		// Filter out empty file entries (browsers send an empty File when no file is selected)
 		const uploadedFiles = documents.filter((f) => f.size > 0);
 
+		// Return early if no content
+
+		if (!websiteUrl?.trim() && !emailDomain?.trim() && uploadedFiles.length === 0) {
+			return apiResponse(
+				{
+					message: 'POST /api/classify — no content to classify',
+					received: {
+						companyName: companyName.trim(),
+						websiteUrl: "",
+						emailDomain: "",
+						fileCount: 0,
+						fileNames: []
+					},
+					warning: 'No website URL, email domain, or documents were provided. Please provide at least one source of data to classify.',
+					result: {
+						prompt: [],
+						distance: [],
+					}
+				},
+				201
+			);
+		}
 
 		// 2. Processing path
 
 		let processedTexts: Array<string> = [];
-
 
 		// a. Extract url from email domain name - if web not given
 
@@ -54,12 +84,19 @@ export const POST: RequestHandler = async ({ request }) => {
 
 		// b. Process page
 
-		if (websiteUrl?.trim()) { 
+		let websiteWarning: string | null = null;
+
+		if (websiteUrl?.trim()) {
 
 			console.log(`processing page ${websiteUrl}`)
 
-			let webResult = await processWebsite(websiteUrl)
-			processedTexts.push(`Title: ${webResult.title}, Description: ${webResult.description}, Text: ${webResult.description} `)
+			try {
+				let webResult = await processWebsite(websiteUrl)
+				processedTexts.push(`Title: ${webResult.title}, Description: ${webResult.description}, Text: ${webResult.description} `)
+			} catch (err) {
+				console.error(`[classify] processWebsite failed for ${websiteUrl}:`, err);
+				websiteWarning = `Could not reach "${websiteUrl}". The website may be down or the URL is invalid.`;
+			}
 		}
 
 		// c. Process documents
@@ -74,7 +111,28 @@ export const POST: RequestHandler = async ({ request }) => {
 
 		// 3. Classify
 
-		const combinedText = processedTexts.join("\n");
+		const combinedText = processedTexts.join("\n").trim();
+
+		if (!combinedText) {
+			return apiResponse(
+				{
+					message: 'POST /api/classify — no usable content',
+					received: {
+						companyName: companyName.trim(),
+						websiteUrl: websiteUrl?.trim() ?? "",
+						emailDomain: emailDomain?.trim() ?? "",
+						fileCount: uploadedFiles.length,
+						fileNames: uploadedFiles.map((f) => f.name)
+					},
+					warning: websiteWarning ?? 'No usable content was found to classify.',
+					result: {
+						prompt: [],
+						distance: [],
+					}
+				},
+				201
+			);
+		}
 
 		// a. Simple, single prompt classification
 		const promptCodes = await classifySimplePrompt({ text: combinedText, model: "google/gemini-2.5-flash" });
@@ -92,6 +150,7 @@ export const POST: RequestHandler = async ({ request }) => {
 					fileCount: uploadedFiles.length,
 					fileNames: uploadedFiles.map((f) => f.name)
 				},
+				...(websiteWarning ? { warning: websiteWarning } : {}),
 				result: {
 					prompt: promptCodes,
 					distance: distanceCodes,

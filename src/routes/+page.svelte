@@ -19,6 +19,7 @@
 			fileCount: number;
 			fileNames: string[];
 		};
+		warning?: string;
 		result: {
 			prompt: PromptResult[];
 			distance: DistanceResult[];
@@ -274,6 +275,12 @@
 							Classification complete for {result.data.received.companyName}
 						</h2>
 					</div>
+
+					{#if result.data.warning}
+						<div class="rounded-lg bg-amber-50 ring-1 ring-amber-200 p-4">
+							<p class="text-sm text-amber-800">{result.data.warning}</p>
+						</div>
+					{/if}
 
 					<!-- Approach 1: LLM Prompt -->
 					<div class="rounded-lg bg-white ring-1 ring-gray-900/5 shadow-sm p-5">
